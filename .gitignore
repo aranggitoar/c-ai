@@ -1,2 +1,6 @@
 build/
 tmp/
+gmon.out
+todo.md
+compile_commands.json
+.cache/
